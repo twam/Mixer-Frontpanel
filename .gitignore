@@ -2,3 +2,6 @@
 *.sch-bak
 *.net
 *.step
+*-backups/
+fp-info-cache
+
